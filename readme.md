@@ -3,7 +3,7 @@
 - Some scripts and tool guides that make work simpler and effcienter.
 
 ##Directory
-- Linux OS
+- Linux
  
     tools under linux operating system.
 - MacOS
