@@ -12,8 +12,9 @@ echo "oh-my-zsh has been installed"
 echo "start chsh to zsh"
 sudo chsh -s /bin/zsh
 
+echo "start to alias command for git"
 echo "alias gs=\"git status\"\nalias gc=\"git checkout\"\nalias gd=\"git diff\"\nalias gl=\"git log\"\nalias gb=\"git branch\"\nalias ga=\"git add\"\nalias gr=\"git remote\"\nalias gp=\"git pull\"" >> ~/.zshrc
-
 source ~/.zshrc
 
+echo "start zshell..."
 zsh
